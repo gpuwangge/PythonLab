@@ -3,6 +3,7 @@ from markupsafe import escape
 
 app = Flask(__name__)
 
+#http://127.0.0.1:5000/
 @app.route("/")
 def hello():
     return "Hello, Flask!"

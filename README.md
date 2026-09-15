@@ -7,7 +7,7 @@ https://www.python.org/downloads/
 # Run Flask
 VSCode terminal:
 ```
-python -m flask --app app run
+python -m flask run
 ```
 
 # [Flask Tutorial](https://github.com/gpuwangge/Wiki/blob/main/documents/Flask.md)   
